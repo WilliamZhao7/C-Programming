@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/williamzhao/Documents/Study/self-study/C/C-Programming",
+      "program": "/Users/williamzhao/Documents/Study/self-study/C/C-Programming/build/Debug/outDebug"
+    }
+  ]
+}
